@@ -1,4 +1,4 @@
-# Samples
+# Elixir Sample Codes
 
 **TODO: Add description**
 
